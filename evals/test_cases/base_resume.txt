@@ -1,0 +1,48 @@
+Priya Sharma
+priya.sharma@email.com | +91-98765-43210 | Bangalore, India
+github.com/priyasharma | linkedin.com/in/priyasharma-ml
+
+SUMMARY
+Machine Learning Engineer with 6 years of experience building and shipping production ML systems.
+Specialized in NLP, recommendation systems, and large-scale data pipelines.
+Led cross-functional teams of 5–8 engineers across two product launches.
+
+SKILLS
+Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, SQL, Spark,
+Kubernetes, Docker, REST APIs, FastAPI, Redis, PostgreSQL, Airflow, Kafka,
+A/B Testing, RLHF, Prompt Engineering, LLMOps
+
+WORK EXPERIENCE
+
+Senior Machine Learning Engineer — DataSpark AI, Bangalore (Jan 2021 – Present)
+- Architected and deployed a real-time NLP-based content moderation pipeline
+  processing 2M+ documents/day with 94% precision at production scale.
+- Led re-architecture of recommendation engine that increased CTR by 18% across
+  40M daily active users (revenue impact: $2.4M/year).
+- Integrated LLM fine-tuning pipeline using RLHF; reduced hallucination rate by 31%.
+- Mentored 4 junior engineers; introduced team-wide experiment tracking using MLflow.
+
+Machine Learning Engineer — Flipkart, Bangalore (Jul 2018 – Dec 2020)
+- Built and shipped search ranking model (XGBoost + LambdaMART) improving
+  search relevance by 22% as measured by NDCG@10.
+- Maintained Spark-based feature engineering pipeline for 300M+ user events/day.
+- Ran 12 A/B tests per quarter; improved ML decision loop from 2 weeks to 3 days.
+
+EDUCATION
+M.Tech in Computer Science (Machine Learning specialization) — IIT Bombay (2018)
+GPA: 9.1/10
+
+B.E. in Computer Science — BITS Pilani (2016)
+
+PROJECTS
+- LLM Resume Evaluator: Built an evidence-based LLM scoring system using GPT-4 and Pydantic
+  structured outputs. Used RLHF alignment to reduce hallucination.
+- Open-Source: Contributor to Hugging Face datasets library (150+ GitHub stars on personal fork).
+
+CERTIFICATIONS
+- Google Professional Machine Learning Engineer (2022)
+- AWS Certified Solutions Architect – Associate (2021)
+
+AWARDS
+- DataSpark "Impact Award" Q3 2022 for content moderation system launch
+- Flipkart Hackathon winner (NLP track, 2019) — "Best Technical Implementation"

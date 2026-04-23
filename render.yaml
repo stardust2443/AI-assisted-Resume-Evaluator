@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ai-resume-evaluator
+    runtime: python
+    buildCommand: pip install -r requirements.txt && cd frontend && npm install && npm run build
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false          # Set this manually in Render dashboard — never commit it
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    autoDeploy: true         # Redeploys automatically on every git push

@@ -1,0 +1,51 @@
+.upload-zone {
+  border: 2px dashed var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--bg-card);
+  transition: all 0.2s;
+  cursor: pointer;
+  min-height: 160px;
+  display: flex; align-items: center;
+}
+.upload-zone:hover, .upload-zone.dragging {
+  border-color: var(--accent-blue);
+  background: rgba(79,142,247,0.05);
+  box-shadow: 0 0 24px rgba(79,142,247,0.1);
+}
+.upload-zone.has-files { min-height: auto; border-style: solid; border-color: var(--border-bright); }
+.upload-label { width: 100%; cursor: pointer; display: block; }
+
+.upload-empty {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; gap: 8px; padding: 36px 24px; text-align: center;
+}
+.upload-icon { font-size: 2.2rem; margin-bottom: 4px; }
+.upload-title { font-weight: 600; font-size: 1rem; color: var(--text-primary); }
+.upload-hint { font-size: 0.875rem; color: var(--text-muted); }
+.upload-browse { color: var(--accent-blue); text-decoration: underline; }
+.upload-types { font-size: 0.75rem; color: var(--text-muted); margin-top: 4px; }
+
+.upload-files { padding: 16px 20px; display: flex; flex-direction: column; gap: 12px; }
+.upload-files-header { display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 0.9rem; }
+.upload-change { color: var(--accent-blue); font-size: 0.8rem; font-weight: 500; }
+.file-chips { display: flex; flex-direction: column; gap: 8px; }
+
+.file-chip {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); padding: 8px 12px;
+}
+.file-ext {
+  font-size: 0.65rem; font-weight: 700; font-family: 'JetBrains Mono', monospace;
+  padding: 3px 7px; border-radius: 4px;
+  background: rgba(79,142,247,0.15); color: var(--accent-blue);
+  border: 1px solid rgba(79,142,247,0.2);
+}
+.file-name { flex: 1; font-size: 0.875rem; color: var(--text-primary); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.file-size { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
+.file-remove {
+  background: none; border: none; color: var(--text-muted); cursor: pointer;
+  font-size: 0.8rem; padding: 2px 6px; border-radius: 4px;
+  transition: all 0.15s;
+}
+.file-remove:hover { background: rgba(255,83,112,0.1); color: var(--accent-red); }

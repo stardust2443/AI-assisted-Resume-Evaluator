@@ -1,0 +1,42 @@
+Dr. Rahul Mehta
+rahul.mehta@research.edu | +1-650-555-0199 | Stanford, CA
+scholar.google.com/rahmehta | github.com/rahmehta-ml
+
+SUMMARY
+Principal Research Scientist with 14 years of experience in machine learning theory,
+optimization, and deep learning. 60+ published papers, 4000+ citations.
+Former Google Brain Research Scientist. Expert in generative models, causal inference,
+and federated learning. Active speaker at NeurIPS, ICML, ICLR.
+
+RESEARCH INTERESTS
+Causal reasoning, probabilistic graphical models, federated learning,
+differential privacy, quantum ML. Not primarily focused on product engineering
+or production deployments.
+
+SKILLS
+Python, JAX, TensorFlow, PyTorch, LaTeX, MATLAB, R, Coq (proof assistant)
+Limited experience with Kubernetes, Docker, REST APIs, or production MLOps tooling.
+
+EXPERIENCE
+
+Principal Research Scientist — Academia / Google Brain (Research) (2018 – 2024)
+- Published 60+ papers in top-tier ML venues. 4000+ citations on Google Scholar.
+- Developed novel theoretical framework for causal discovery in high-dimensional settings.
+- Led research collaboration across 5 universities. No direct product ownership.
+
+Postdoctoral Researcher — MIT CSAIL (2014 – 2018)
+- Designed optimization algorithms for large-scale federated learning.
+- Mentored PhD students in statistical ML theory.
+
+EDUCATION
+PhD in Machine Learning — Stanford University (2014)
+Dissertation: "Variational Inference in Non-identified Latent Variable Models"
+
+AWARDS
+- NeurIPS Best Paper Award (2021)
+- NSF CAREER Award (2020)
+- ICML Outstanding Reviewer Award (2019)
+
+NOTE: This candidate is highly accomplished but may be overqualified and
+misaligned for a product-focused senior ML engineering role.
+They have minimal production/deployment experience.

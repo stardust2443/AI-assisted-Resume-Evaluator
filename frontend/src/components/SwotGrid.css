@@ -1,0 +1,24 @@
+.swot-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+}
+@media (max-width: 600px) { .swot-grid { grid-template-columns: 1fr; } }
+
+.swot-cell {
+  padding: 20px; border-radius: var(--radius-md);
+  border: 1px solid var(--border); background: var(--bg-card);
+}
+.swot-s { border-color: rgba(34,211,165,0.2); background: rgba(34,211,165,0.04); }
+.swot-w { border-color: rgba(255,83,112,0.2);  background: rgba(255,83,112,0.04); }
+.swot-o { border-color: rgba(79,142,247,0.2);  background: rgba(79,142,247,0.04); }
+.swot-t { border-color: rgba(245,166,35,0.2);  background: rgba(245,166,35,0.04); }
+
+.swot-header { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
+.swot-icon { font-size: 1.1rem; }
+.swot-label { font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; }
+
+.swot-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.swot-item {
+  display: flex; align-items: flex-start; gap: 9px;
+  font-size: 0.85rem; color: var(--text-secondary); line-height: 1.5;
+}
+.swot-bullet { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }

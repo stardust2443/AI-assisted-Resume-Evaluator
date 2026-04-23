@@ -1,0 +1,29 @@
+Senior Machine Learning Engineer — NLP + LLM Systems
+
+About the Role:
+We are hiring a Senior ML Engineer to lead development of our LLM-powered product features.
+You will own the ML pipeline from data to deployment, working with a cross-functional team.
+
+Requirements (Must-Have):
+- 5+ years of experience in machine learning, with at least 2 years in NLP/LLM systems
+- Proficiency in Python, TensorFlow or PyTorch, and Hugging Face Transformers
+- Experience deploying ML models in production (Docker, Kubernetes, REST APIs)
+- Strong foundation in A/B testing and experiment design
+- Experience with data pipelines (Spark, Airflow, or equivalent)
+- Track record of owning and shipping production ML features end-to-end
+
+Preferred Skills:
+- Experience with LLM fine-tuning (RLHF, instruction tuning, LoRA)
+- Familiarity with prompt engineering and LLMOps tooling
+- Prior experience mentoring junior engineers
+- Contributions to open-source ML projects
+
+Key Responsibilities:
+- Design and ship NLP/LLM features end-to-end (from prototype to production)
+- Own the experiment framework and A/B testing infrastructure
+- Collaborate with product managers and frontend engineers
+- Mentor junior ML engineers
+- Define ML quality metrics and monitor production model health
+
+Seniority: Senior (5–8 years experience preferred)
+Domain: AI/ML SaaS, B2C product

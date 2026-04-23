@@ -1,0 +1,35 @@
+Alex Resume
+alex@email.com
+
+SKILLS
+Python, TensorFlow, PyTorch, Hugging Face Transformers, Kubernetes, Docker, REST APIs,
+FastAPI, Spark, Airflow, Kafka, A/B Testing, RLHF, Prompt Engineering, LLMOps,
+NLP, LLM, Machine Learning, Deep Learning, Data Science, SQL, Redis, PostgreSQL,
+MLflow, CI/CD, Microservices, AWS, GCP, Azure, React, Node.js, GraphQL
+
+EXPERIENCE
+
+Senior Machine Learning Engineer — Self-employed (2020 – Present)
+- Worked on machine learning projects.
+- Used Python and TensorFlow.
+- Deployed models.
+- Conducted A/B tests.
+- Built NLP systems.
+- Applied RLHF techniques.
+- Used Hugging Face Transformers.
+- Maintained Spark pipelines.
+- Mentored team members.
+- Shipped production ML features end-to-end.
+
+Previous Role — Various Companies (2018 – 2020)
+- Did machine learning work using Python and PyTorch.
+- Involved in data pipelines with Airflow.
+- Familiar with Kubernetes and Docker deployments.
+
+EDUCATION
+BS Computer Science — Generic University (2018)
+
+NOTE: This resume is intentionally keyword-stuffed.
+It lists all JD keywords but lacks specific metrics, company names with credibility,
+real achievements, or verifiable evidence of depth.
+The LLM should NOT reward this over a genuinely qualified candidate.
