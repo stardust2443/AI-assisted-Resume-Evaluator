@@ -1,17 +1,18 @@
 # AI-Assisted Resume Evaluator
 
-> **Evidence-based resume scoring powered by Gemini 2.5 Flash — every point awarded is backed by a verbatim quote from the resume.**
+> **Evidence-based resume scoring powered by Gemini 2.5 Flash. Every point awarded is backed by a verbatim quote from the resume.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge)](https://ai-assisted-resume-evaluator.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
 
+URL: https://ai-assisted-resume-evaluator.onrender.com
 ---
 
 ## What it does
 
-Upload a resume (PDF/DOCX/TXT) and a job description — get back a structured evaluation with:
+Upload a resume (PDF/DOCX/TXT) and a job description, get back a structured evaluation with:
 
 | Output | Detail |
 |---|---|
@@ -94,11 +95,3 @@ Total               100 pts
 ```
 
 ---
-
-## Environment variables
-
-| Variable | Required | Description |
-|---|---|---|
-| `GEMINI_API_KEY` | ✅ | Get free at [aistudio.google.com](https://aistudio.google.com) |
-
-**Never commit your `.env` file.** Set the key in Render dashboard → Environment.
